@@ -1,0 +1,11 @@
+#wholePage{
+    background-image: url("https://upload.wikimedia.org/wikipedia/en/2/2a/Chuggington_charactersjpg.jpg");
+    height:100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#trainAdd{
+    background-color: red;
+}
